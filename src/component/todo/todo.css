@@ -1,0 +1,74 @@
+.box{
+    border-color: black;
+    border-style:solid;
+    text-align: center;
+    width:600px;
+    height: 340px;
+    margin-left: 430px;
+    margin-top: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    }
+    .head1{
+        font-family: "Playfair Display";
+        font-size: 60px;
+        padding-top: 10px;
+        color:black
+    }
+    .l1{
+        font-size:20px;
+    }
+    .l2{
+        font-size:20px;
+        margin-left: 10px;
+        position: absolute;
+        top:350px;
+        left: 565px;
+    }
+    .l3{
+        font-size:20px;
+        margin-left: 10px;
+        position: absolute;
+        top:395px;
+        left: 565px;
+    }
+    .btn1{
+        position: absolute;
+        top:440px;
+        left:625px;
+        background-color:#1640D6 ;
+        color: aliceblue;
+        width: 200px;
+        border-radius: 10px;
+    
+    }
+    .btn2{
+        position: absolute;
+    
+        left:625px;
+        background-color:#1640D6 ;
+        color: aliceblue;
+        width: 200px;
+        top:480px;
+        border-radius: 10px;
+       
+    }
+    .dl{
+      border-color: black;
+      border-style: solid;
+      background-color: white;
+      color: black;
+      border-radius: 10px;
+      text-align: center;
+    
+    }
+    li{
+        text-align: center;
+        
+    }
+    
+    .btn3{
+        margin-left: 20px;
+        background-color:#1640D6 ;
+        color: aliceblue;
+    }

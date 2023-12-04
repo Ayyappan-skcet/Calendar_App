@@ -1,0 +1,75 @@
+li{
+    display:inline-flex;
+    padding-left: 135px;
+    
+
+  
+}
+.title1{
+    display:inline-flex;
+    color: black;
+    margin-top: 10px;
+    color: aliceblue;
+   font-family:  "Playfair Display";
+    
+}
+
+.title2{
+   
+    display:inline-flex;
+    color: black;
+    padding-left: 70px;
+    color: aliceblue;
+   
+}
+
+.navbar{
+    background-color:#1640D6;
+   border-color: #1640D6;
+   border-style: solid;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+    
+width:1535px;
+
+height: 90px;
+
+}
+.addevent{
+    border-style: solid;
+    border-color: black;
+    width:320px;
+    height: 250px;
+    margin-left: 1190px;
+    background-color: white;
+    border-radius: 20px;;
+}
+.addevent h3{
+ font-family: "Playfair Display";
+ color:black;
+ text-align: center;
+ margin-top: 30px;
+}
+.task1{
+ font-family: "Playfair Display";
+ color:black;
+ text-align: center;
+ padding-top: 20px;;
+ margin-left: 30px;
+}
+.task{
+ font-family: "Playfair Display";
+ color:black;
+ text-align: center;
+ margin-top: 10px;
+ margin-left: 30px;
+}
+.click{
+    margin-top: 15px;
+    margin-left: 100px;
+    background-color: #1640D6;
+    color:white;
+    width: 120px;
+    border-radius: 10px;
+    height: 40px;
+}

@@ -1,0 +1,54 @@
+.image{
+    width: 200px;
+    height:240px;
+    float: left;
+    padding-left: 20px;
+    padding-top: 70px;
+    border-radius: 120px;
+
+}
+.content{
+    margin-top: 80px;
+}
+.content1{
+    margin-top: 10px;
+}
+.content2{
+    margin-top: 10px;
+}
+.drop{
+    width: 209px;
+
+
+ }
+ .btn1{
+    background-color: #1640D6;
+   color:white;
+  margin-left: 30px;
+  margin-top: 20px;
+  width:140px;
+  height: 30px;
+ }
+ .btn2{
+    background-color: #1640D6;
+   color:white;
+  position: absolute;
+  top:20px;
+  left:1250px;
+  width:140px;
+  height: 40px;
+ }
+ .profile{
+    text-align: center;
+    color:black;
+   position: absolute;
+   top:215px;
+   left:680px;
+   font-family: "Playfair Display";
+ }
+ .box{
+    background-color: rgb(255, 255, 255);
+ }
+
+ 
+ 
